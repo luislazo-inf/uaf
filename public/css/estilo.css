@@ -1,0 +1,173 @@
+.nav a{
+	color: #000;
+}
+
+.nav a:hover{
+	background-color: #00BFFF;
+	color: #fff;
+}
+
+.header{
+	margin-left: 1%;
+	margin-top: 15px;
+	margin-bottom: 10px;
+	justify-content: inherit;
+}
+
+.cuerpo{
+	height: 565px;
+	margin:20 auto;
+	margin-top: 2%;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+.footer{
+	padding-top: 10px;
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+
+.registrado{
+	text-align: center;
+	color: #999999;
+}
+
+.index-titulo{
+	text-align: center;
+	width: 40%;
+	margin:0 auto;
+}
+
+.index-cuerpo{
+	margin: 0 auto;
+}
+.muestra_titulo{
+	text-align: center;
+}
+.muestra_cuerpo{
+	margin: 0 auto;
+	padding-top: 5px;
+}
+
+.muestra_cuerpo div{
+	border-width: 1px;
+	border-style: dashed;
+}
+
+.muestra_cuerpo h5{
+	text-align: center;
+}
+
+.text{
+	width: 100%;
+	margin-bottom: 15px;
+	border: 0.35mm groove #008000;
+    border-radius: 5px;
+    height: 40px;
+    padding-left: 10px;
+}
+.search{
+	margin-top: 15px;
+}
+.boton{
+	margin-bottom: 15px;
+	border: 0.35mm solid;
+	border-radius: 5px;
+	background-color: #3077BF;
+	color: #fff;
+	padding: 4px;
+	width: 75px;
+}
+
+.textArea{
+	width: 100%;
+	margin-bottom: 15px;
+	border: 0.35mm groove #008000;
+    border-radius: 5px;
+    height: 60px;
+    padding-left: 10px;
+}
+
+.cuerpo-Listar{
+	border-width: 1px;
+	border-style: dashed;
+
+}
+.cuerpo-Listar table{
+	width: 100%;
+	font-size: 20px;
+	text-align: center;
+
+}
+
+.cuerpo-Listar table th,td{
+	border-bottom: 1px solid #999;
+   	width: 25%;
+   	text-align: left;
+}
+
+.boton2{
+	background-color: transparent;
+    border: none;
+    cursor: pointer;
+    color: #3077BF;
+    padding:0;
+    margin:0;
+}
+.boton4{
+	margin: 15px 15px auto;
+	border: 0.35mm solid;
+	border-radius: 5px;
+	background-color: #FE2E64;
+	color: #fff;
+	padding: 4px;
+	width: 70%;
+}
+
+.cuerpo-Registrar{
+	background-color: #0CB7F2;
+}
+
+.tabla{
+	margin-left: 0;
+}
+
+.tabla th,td{
+	border-bottom: none;
+	margin:0 auto;
+	text-align: center;
+}
+
+.text2{
+	width: 325px;
+	margin: 10px;
+	background-color: #EFF2FB;
+	color: #000000;
+}
+
+.text3{
+	width: 60%;
+	background-color: #EFF2FB;
+	color: #000000;
+	border: 1px solid #EFF2FB;
+	margin-top: 15px;
+	height: 40px;
+	border-radius: 8px;
+	padding-left: 15px;
+}
+.boton5{
+	width: 30%;
+	border: 0.35mm solid;
+	border-radius: 5px;
+	background-color: #3077BF;
+	color: #fff;
+	padding: 4px;
+	height: 40px;
+}
+
+.tablita th,td{
+	text-align: left;
+}
+
+
